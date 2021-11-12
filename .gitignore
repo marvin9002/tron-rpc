@@ -6,3 +6,4 @@ program
 *.txt
 trx/key_store
 tron
+.idea
